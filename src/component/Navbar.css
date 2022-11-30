@@ -8,6 +8,7 @@
     border-radius: 0 0 10px 10px;
     box-shadow: 7px 7px 30px #ccc;
     top: 0 !important;
+    z-index: 999;
 }
 .nav > .nav-title {
     display: inline-block;

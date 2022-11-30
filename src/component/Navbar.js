@@ -16,7 +16,7 @@ export function Navbar() {
             <a href="/about"><i className="xi-help-o"></i></a>
             <a href="/officer"><i className="xi-user-o"></i></a>
             <a href="/join"><i className="xi-log-in"></i></a>
-            <a href="/join"><i className="xi-image-o"></i></a>
+            <a href="/act"><i className="xi-image-o"></i></a>
         </div>
       </header>
     </>

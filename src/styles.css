@@ -6,6 +6,7 @@
   font-style: normal;
 }
 
+/* 기본 설정 */
 * {
   margin: 0;
   padding: 0;
@@ -49,6 +50,21 @@ body {
 
 html {
     height: 100%;
+}
+
+/* 마우스 드래그 블럭 */
+::selection {background:#373737; color:#ffffff;}
+::-moz-selection{background:#373737; color:#ffffff}
+
+/* 스크롤바 */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #373737;
 }
 
 .container {

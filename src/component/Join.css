@@ -1,0 +1,9 @@
+.join {
+    overflow: hidden; 
+    height: 79vh !important;
+}
+
+.form {
+    overflow: scroll; 
+    padding-bottom: 130px;
+}

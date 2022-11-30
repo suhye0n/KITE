@@ -14,8 +14,8 @@ export function Navbar() {
         </div>
         <div className="nav-links">
             <a href="/about"><i className="xi-help-o"></i></a>
-            <a href="/about"><i className="xi-user-o"></i></a>
-            <a href="/about"><i className="xi-log-in"></i></a>
+            <a href="/officer"><i className="xi-user-o"></i></a>
+            <a href="/join"><i className="xi-log-in"></i></a>
         </div>
       </header>
     </>

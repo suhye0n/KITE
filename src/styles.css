@@ -52,7 +52,8 @@ html {
 }
 
 .container {
-  width: 750px;
+  width: 90%;
+  max-width: 750px;
   margin: auto;
   padding: 90px 20px 20px 20px;
   background-color: #FFF;
